@@ -1,0 +1,1 @@
+<function Patient.full_name at 0x000001B37102B560> <function Patient.full_name at 0x000001B37102B560> <function Patient.full_name at 0x000001B37102B560> 
